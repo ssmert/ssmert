@@ -1,1 +1,2 @@
-Hello
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=3,2,3,3,3,3&amp;height=300&amp;section=header&amp;text=@ssmert&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Do%20Your%20Best%20For%20Me,%20Please&amp;descAlignY=60&amp;descAlign=80)
+![ssmert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmert&theme=midnight-purple&show_icons=true)
